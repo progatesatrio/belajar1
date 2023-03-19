@@ -3,6 +3,7 @@ Belajar FrontEnd
 2.Css
 3.Javascript
 4.vue js
-5 reach js
+5 git hub
+6. git
 
 
